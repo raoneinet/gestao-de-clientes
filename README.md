@@ -85,8 +85,6 @@ gestao-de-clientes/
 ├── config.php          # Configuração do banco de dados
 ├── style.css           # Estilos CSS
 └── script.js           # Scripts JS opcionais
-📄 Licença
-Projeto distribuído sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
 ✍️ Autor
 Desenvolvido por Raone Ferreira
