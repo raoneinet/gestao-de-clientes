@@ -78,6 +78,7 @@ bash
 Copiar
 Editar
 gestao-de-clientes/
+
 ├── index.php           # Listagem geral dos clientes
 
 ├── create.php          # Formulário para adicionar cliente
@@ -85,9 +86,13 @@ gestao-de-clientes/
 ├── edit.php            # Formulário para editar cliente
 
 ├── delete.php          # Script para exclusão
+
 ├── config.php          # Configuração do banco de dados
+
 ├── style.css           # Estilos CSS
+
 └── script.js           # Scripts JS opcionais
+
 
 ✍️ Autor
 Desenvolvido por Raone Ferreira
