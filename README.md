@@ -42,8 +42,7 @@ Coloque os arquivos na pasta do servidor local (ex: htdocs do XAMPP);
 Crie um banco de dados no MySQL e importe a estrutura da tabela clientes (exemplo abaixo):
 
 sql
-Copiar
-Editar
+
 CREATE TABLE clientes (
   id INT AUTO_INCREMENT PRIMARY KEY,
   nome VARCHAR(255) NOT NULL,
@@ -54,8 +53,6 @@ CREATE TABLE clientes (
 Configure a conexão com o banco no arquivo config.php:
 
 php
-Copiar
-Editar
 <?php
 $servername = "localhost";
 $username = "root"; // usuário padrão do XAMPP/WAMP
@@ -75,8 +72,6 @@ http://localhost/gestao-de-clientes/
 
 📂 Estrutura do projeto
 bash
-Copiar
-Editar
 gestao-de-clientes/
 
 ├── index.php           # Listagem geral dos clientes
